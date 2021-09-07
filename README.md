@@ -22,4 +22,5 @@ T.C. Sağlık Bakanlığı'nın günlük olarak yayınlanmış olduğu yaklaşı
   - Yoğun Bakım Sayısı
   - Ölüm Sayısı
   - İyileşen Hasta Sayısı
-Not : Daha çok veri kullanılarak ve hastaların özelliklerinden yararlanılarak daha doğru çözümlere ulaşmak olasıdır.
+
+**Not :** Daha çok veri kullanılarak ve hastaların özelliklerinden yararlanılarak daha doğru çözümlere ulaşmak olasıdır.
